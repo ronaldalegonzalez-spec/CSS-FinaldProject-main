@@ -570,7 +570,7 @@ nav a:hover {
 }
 #styles ul {
   list-style: none;
-  padding-left:540px;
+  padding-left:50px;
   width:  100%;
   display: flex;
   flex-direction: row;
@@ -677,11 +677,11 @@ nav a:hover {
 /* footer links=================== */
  .page-footer ul {
     list-style: none;
-    padding-left: 55px;
+    padding-left: 85px;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    width: 50%;
+    width: 90%;
 }
 .page-footer li:nth-child(1), .page-footer li:nth-child(3), .page-footer li:nth-child(4) {
   display: inline-flex;
