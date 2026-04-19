@@ -677,7 +677,7 @@ nav a:hover {
 /* footer links=================== */
  .page-footer ul {
     list-style: none;
-    padding-left: 85px;
+    padding-left: 55px;
     display: flex;
     flex-direction: row;
     justify-content: center;
