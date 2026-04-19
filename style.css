@@ -6,7 +6,8 @@ html {
 }
 
 body {
-  background-image: url("img/Fantasy-Background-Movil.png");
+  background-image: url("img/Fantasy-background-movil.jpeg");
+  background-position: center;
   background-attachment: fixed;
   background-size: cover;
 
