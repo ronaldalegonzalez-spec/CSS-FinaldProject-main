@@ -573,7 +573,7 @@ nav a:hover {
   flex-direction:row;
   justify-content: center;
   gap: 1rem;
-  padding-left: 0;
+  padding-left: 90px;
   flex-wrap: wrap;
 }
 #styles li {
