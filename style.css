@@ -53,7 +53,7 @@ h1 {
 
 header h2{
   font-size: 3.5rem;
-  color: #cea33e;
+  color: #c49b3c;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
@@ -317,6 +317,10 @@ article:first-of-type section:nth-child(2) li {
   padding: 0.5rem;
   letter-spacing: 1.58px;
 }
+#styles span a::before {
+    content: "➤ "
+}
+
 /* View All Styles [ */
 .link-allstyles:before, .link-allstyles:after {
     content: "++";
