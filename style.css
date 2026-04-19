@@ -11,3 +11,51 @@ h1, h2 {
   letter-spacing: 2px;
 }
 
+header {
+  background-color: #8B4513;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Link to gitHub ++++++++++++++++++++++++++++++++++++++++++++++*/
+.link-github {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+
+  background: #7a1f1f;
+  color: #fff;
+  padding: 0.6rem 1.2rem;
+
+  text-decoration: none;
+  border: 2px solid #c9a44c;
+
+  font-family: 'Alfa Slab One', serif;
+  letter-spacing: 1px;
+}
+.link-github:hover {
+  background: #c9a44c;
+  color: #3b2f2f;
+  transform: scale(1.05);
+}
+.link-github svg {
+  width: 18px;
+  height: 18px;
+  fill: currentColor;
+}
+/* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+
+/* Sections++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ */
+section {
+  background-image: url("img/medieval-background.png");
+  background-size: cover;
+  background-position: center;
+  
+  max-width: 86%;      /* controla el ancho */
+  margin: 2rem auto;     /* separa y centra */
+  padding: 1.5rem;       /* espacio interno */
+
+  border-radius: 8px;    /* esquinas suaves */
+}
+
