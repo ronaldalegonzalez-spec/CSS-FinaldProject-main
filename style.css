@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body {
+  font-family: 'Grenze', serif;
+  
+}
+
+/* Principal titles */
+h1, h2 {
+  font-family: 'Pirata One', serif;
+  letter-spacing: 2px;
+}
+
