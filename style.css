@@ -506,6 +506,7 @@ h1 {
   }
 
   header p {
+    margin-top: -30px;
     font-size: 2rem;
     color: #57452d;
     font-weight: bold;
